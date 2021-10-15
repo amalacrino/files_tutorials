@@ -1,0 +1,11 @@
+SampleID	Group
+S16	A
+S17	A
+S18	A
+S19	A
+S20	A
+S61	B
+S62	B
+S63	B
+S64	B
+S65	B
